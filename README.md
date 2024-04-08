@@ -8,8 +8,10 @@
     </picture>
   </a>
 </p>
+Welcome to this Remotion project! It's a playground for timing animations in Remotion.
 
-Welcome to your Remotion project!
+# YouTube tutorial
+This project was used for the following YouTube tutorial: https://www.youtube.com/watch?v=WigIALCnEvw
 
 ## Commands
 
